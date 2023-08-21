@@ -1,0 +1,8 @@
+D:\AssignmentfolderSQL files\Day7Assignment\Assesment_Day7\Assesment_Day7\bin\Debug\Assesment_Day7.exe.config
+D:\AssignmentfolderSQL files\Day7Assignment\Assesment_Day7\Assesment_Day7\bin\Debug\Assesment_Day7.exe
+D:\AssignmentfolderSQL files\Day7Assignment\Assesment_Day7\Assesment_Day7\bin\Debug\Assesment_Day7.pdb
+D:\AssignmentfolderSQL files\Day7Assignment\Assesment_Day7\Assesment_Day7\obj\Debug\Assesment_Day7.csproj.AssemblyReference.cache
+D:\AssignmentfolderSQL files\Day7Assignment\Assesment_Day7\Assesment_Day7\obj\Debug\Assesment_Day7.csproj.SuggestedBindingRedirects.cache
+D:\AssignmentfolderSQL files\Day7Assignment\Assesment_Day7\Assesment_Day7\obj\Debug\Assesment_Day7.csproj.CoreCompileInputs.cache
+D:\AssignmentfolderSQL files\Day7Assignment\Assesment_Day7\Assesment_Day7\obj\Debug\Assesment_Day7.exe
+D:\AssignmentfolderSQL files\Day7Assignment\Assesment_Day7\Assesment_Day7\obj\Debug\Assesment_Day7.pdb
